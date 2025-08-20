@@ -64,13 +64,13 @@ uvicorn==0.34.2
 Clone the project
 
 ```bash
-  git clone https://github.com/kylzer/Synapsis-Challenge.git
+  git clone https://github.com/kylzer/synapsis-challenge.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Synapsis-Challenge
+  cd synapsis-challenge
 ```
 
 Up Docker Container
