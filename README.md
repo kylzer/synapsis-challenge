@@ -78,6 +78,7 @@ Up Docker Container
 ```bash
   docker-compose -f docker-compose.yml up -d --build
 ```
+**NOTES**: Do not forget to use `sudo` if permission is needed and check the port if still in use or not.  
 
 Logging Container  
 Chat Logs
