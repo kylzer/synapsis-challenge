@@ -83,12 +83,13 @@ Up Docker Container
 Logging Container  
 Chat Logs
 ```
-  docker logs synapsis-chat-1
+  docker logs synapsis-challenge-chat-1
 ```
 Ollama Logs
 ```
-  docker logs synapsis-ollama-1
+  docker logs synapsis-challenge-ollama-1
 ```
+**NOTES**: Wait until the model is downloaded before hit the API by check the ollama logs
 
 # Usage
 I use Postman to test the the API.  
